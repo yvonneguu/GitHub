@@ -36,7 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		E9E76D6A24E3183000E506AF /* GitHub.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GitHub.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		E9E76D6A24E3183000E506AF /* GitHub Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "GitHub Example.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E9E76D6D24E3183000E506AF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E9E76D6F24E3183000E506AF /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		E9E76D7124E3183000E506AF /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -91,7 +91,7 @@
 		E9E76D6B24E3183000E506AF /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				E9E76D6A24E3183000E506AF /* GitHub.app */,
+				E9E76D6A24E3183000E506AF /* GitHub Example.app */,
 				E9E76D8324E3183400E506AF /* GitHubTests.xctest */,
 				E9E76D8E24E3183400E506AF /* GitHubUITests.xctest */,
 			);
@@ -148,7 +148,7 @@
 			);
 			name = GitHub;
 			productName = GitHub;
-			productReference = E9E76D6A24E3183000E506AF /* GitHub.app */;
+			productReference = E9E76D6A24E3183000E506AF /* GitHub Example.app */;
 			productType = "com.apple.product-type.application";
 		};
 		E9E76D8224E3183400E506AF /* GitHubTests */ = {
@@ -445,7 +445,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = KWK.GitHub;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "GitHub Example";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -462,7 +462,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = KWK.GitHub;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "GitHub Example";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
